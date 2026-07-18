@@ -4,4 +4,5 @@
 ; Variables in this document should be used to control the app's general functionality.
 ; -------------------------------------------------------------------------------
 
-MyAppVersion=25.0503
+MyAppVersion=26.0718
+ForceCommunityAppReset=0

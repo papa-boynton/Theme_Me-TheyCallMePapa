@@ -4,10 +4,10 @@
 ; Below variables are required for the app's function. Do not remove or change.
 ; -------------------------------------------------------------------------------
 
-MyAppID=Theme_Me-Mike_Boynton
+MyAppID=Theme_Me-TheyCallMePapa
 MyAppName=Theme Me
-MyAppAuthor=Mike Boynton
-MyVariablesLoc=#SKINSPATH#Droptop Community Apps\Apps\Theme_Me-Mike_Boynton\Variables\Variables.inc
+MyAppAuthor=TheyCallMePapa
+MyVariablesLoc=#SKINSPATH#Droptop Community Apps\Apps\Theme_Me-TheyCallMePapa\Variables\Variables.inc
 
 ; -------------------------------------------------------------------------------
 ; Add your variables below: 
@@ -71,7 +71,7 @@ ThemeSlotNumber=1
 
 AppName=Theme Me
 AppVersion=#MyAppVersion#
-AppCreators=Mike Boynton & Cariboudjan
+AppCreators=TheyCallMePapa & Cariboudjan
 MaxFontSize=(#DropdownItemFontSize#*0.9)
 OnOff=1
 hb=4
